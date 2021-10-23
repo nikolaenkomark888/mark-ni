@@ -1,0 +1,25 @@
+#a1 {
+    border: 2px solid cornsilk;
+    width: 200px;
+    height: 100px;
+}
+#a2 {
+    border: 2px solid rgb(252, 206, 25);
+    width: 200px;
+    height: 100px
+}
+#a3 {
+    border: 2px solid rgb(228, 13, 13);
+    width: 200px;
+    height: 100px
+}
+#a4 {
+    border: 2px solid rgb(142, 12, 248);
+    width: 200px;
+    height: 100px
+}
+#a5 {
+    border: 2px solid rgb(7, 243, 78);
+    width: 200px;
+    height: 100px
+}

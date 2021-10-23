@@ -1,0 +1,26 @@
+body {
+    background: black;
+}
+h1 {
+    color: violet;
+    font-size: 200px;
+}
+p {
+    color: tomato;
+    font-size: 80px;
+}
+
+
+ol{
+    color: blue;
+}
+ul {
+    color: blueviolet;
+}
+#hob {
+    color: rgb(0, 153, 255);
+}
+
+.pet {
+    color: pink ;
+}

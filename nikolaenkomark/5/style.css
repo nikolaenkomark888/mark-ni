@@ -1,0 +1,49 @@
+#a1{
+    width: 1920px;  
+    height: 100px;
+    position: absolute;
+    background-color: blue;
+}
+#a2{
+    width: 1920px;
+    height: 25px;
+    position: absolute;
+    background-color: yellow;
+    margin-top: 100px;
+}
+#a3{
+    width: 1920px;
+    height: 75px;
+    position: absolute;
+    background-color: gray;
+    margin-top: 125px;
+}
+#a4{
+    width: 200px;
+    height: 600px;
+    position: absolute;
+    background-color: red;
+    margin-top: 200px;
+}
+#a5{
+    width: 1720px;
+    height: 600px;
+    position: absolute;
+    background-color: purple;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+#a6{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    background-color: goldenrod;
+
+}
+#a7{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    background-color: rgb(18, 252, 240);
+
+}
